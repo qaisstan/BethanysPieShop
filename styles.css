@@ -1,6 +1,10 @@
 body {
     background-color: #fef6f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @font-face {
